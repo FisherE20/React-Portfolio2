@@ -3,7 +3,7 @@
 
 ![Project Image](project-image-url)
 
->Short Project Blurb
+>REACT Portfolio
 
 ---
 
@@ -18,12 +18,12 @@
 ---
 
 ## Description
-What is this project about. Who is the User? What is the purpose of this application? 
+This is an application creating a professional Portfolio using REACT. 
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- REACT
+
 
 ---
 
@@ -31,25 +31,24 @@ What is this project about. Who is the User? What is the purpose of this applica
 
 #### Installation
 
-
+Follow Deployed link below to see the Application.
 
 #### API Reference
+none
 
-```html
-    <p>dummy code</p>
-```
 [Back To The Top](#React-Portfolio2)
 
 ---
 
 ## References
+- Deployed - [FisherE20](https://fishere20.github.io/React-Portfolio2/)
+
 [Back To The Top](#React-Portfolio2)
 
 ---
 
 ## License
 
-MIT License
 
 Copyright(c) [2020] [Erin K Fisher]
 
@@ -59,7 +58,7 @@ Copyright(c) [2020] [Erin K Fisher]
 
 ## Author Info
 
-- GitHub - [userName](url)
-- Website - [userName](url) 
+- GitHub - [FisherE20](https://github.com/FisherE20/React-Portfolio2)
+- Website - [FisherE20](https://fishere20.github.io/Responsive-Portfolio/)
 
 [Back To The Top](#React-Portfolio2)

@@ -12,7 +12,7 @@
    d. Resume Section
    e. Portfolio Section
    f. Call To Action Section
-   g. Testimonials Section
+   g. Recommendation Section
    h. Contact Section
    i. Footer
 
@@ -788,10 +788,10 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: #191919;
+   background: #87908f;
    padding-top: 96px;
    padding-bottom: 102px;
-   color: #636363;
+   color: #050505;
 }
 #contact .section-head { margin-bottom: 42px; }
 
