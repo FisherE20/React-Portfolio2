@@ -1,7 +1,7 @@
 # React-Portfolio2
 
 
-![Project Image](project-image-url)
+![Project Image](images/PortfolioPic.png)
 
 >REACT Portfolio
 
@@ -22,7 +22,7 @@ This is an application creating a professional Portfolio using REACT.
 
 #### Technologies
 
-- REACT
+- MERN Stack
 
 
 ---
