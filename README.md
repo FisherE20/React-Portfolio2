@@ -18,7 +18,7 @@
 ---
 
 ## Description
-This is an application creating a professional Portfolio using REACT. 
+React style Portfolio 
 
 #### Technologies
 
