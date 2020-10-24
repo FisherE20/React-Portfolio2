@@ -1,0 +1,151 @@
+{
+  "main": {
+    "name": "Erin Fisher",
+    "occupation": "Frontend Developer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "Hello, I reside in Tucson, AZ with the loving and supportive husband Michael. I'm origanally from Rohnert Park, CA where I grew up with my 2 younger sisters and a younger brother. In my free time I enjoy cooking, baking, doing crafts (making wreaths) and hanging out with family and friends. I'm also a huge movie and music fan. I have worked in the dental field for the last 19 years and decided it was time for a career change. I decided to go into web development/coding because in highschool I took a semester of web design and really enjoyed myself. My dream job would be to work somewhere that both challenges me and allows me to be creative..",
+    "contactmessage": "Get in touch with me to receive further details anything else.",
+    "email": "flybirdie85@gmail.com",
+    "phone": "707-536-6762",
+    "address": {
+      "street": "7374 N Mona Lisa Rd, Apt 7204",
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "85741"
+    },
+    "website": "https://FisherE20.github.io",
+    "resumedownload": "https://FisherE20.github.io",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/erin.bird.370",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/erin-k-fisher/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/FisherE20/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Arizona, Coding Bootcamp",
+        "graduated": "October 2020",
+        "description": "Web Development"
+      }
+    ],
+    
+    "education": [
+      {
+        "school": "California State University, Chico",
+        "graduated": "December 2008",
+        "description": "Interior Design"
+      }
+    ],
+    "work": [
+      {
+        "company": "Las Casas Dental",
+        "title": "Patient Care Coordinator/ Dental Assistant",
+        "years": "June 2018- July 2020",
+        "description": ""
+      },
+      {
+        "company": "Dehnert Dental",
+        "title": "Dental Assistant",
+        "years": "June 2017 - May 2018",
+        "description": ""
+      },
+      {
+        "company": "William J. Bohan, D.M.D",
+        "title": "Front Office Manager",
+        "years": "October 2015 - March 2017",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs"
+      },
+      {
+        "name": "CSS" 
+      },
+      {
+        "name": "Git" 
+      },
+      {
+        "name": "HTML5"
+      },
+      {
+        "name": "MongoDB"
+      },
+      {
+        "name": "Express"
+      },
+      {
+        "name": "Node.js"
+      }
+
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Travel App",
+        "category": "mobileapp",
+        "image": "Travel.png",
+        "url": ""
+      },
+      {
+        "title": "COVID Trivia Night",
+        "category": "mobileapp",
+        "image": "COVID.png",
+        "url": ""
+      },
+      {
+        "title": "Eat-Da- Burger",
+        "category": "mobileapp",
+        "image": "Eat-DA-Burger.png",
+        "url": "https://fathomless-lake-31338.herokuapp.com/"
+      },
+      {
+        "title": "Note Taker",
+        "category": "mobileapp",
+        "image": "Note-taker.png",
+        "url": ""
+      },
+      {
+        "title": "Weather Dashboard",
+        "category": "mobileapp",
+        "image": "Weather.png",
+        "url": ""
+      },
+      {
+        "title": "Password Generator",
+        "category": "mobileapp",
+        "image": "Password.png",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
