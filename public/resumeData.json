@@ -102,13 +102,19 @@
         "title": "Travel App",
         "category": "mobileapp",
         "image": "Travel.png",
-        "url": ""
+        "url": "https://fishere20.github.io/Project-1/"
       },
       {
         "title": "COVID Trivia Night",
         "category": "mobileapp",
         "image": "COVID.png",
-        "url": ""
+        "url": "https://thawing-everglades-24119.herokuapp.com/"
+      },
+      {
+        "title": "My Pregnancy Journal",
+        "category": "mobileapp",
+        "image": "pregnancy.png",
+        "url": "https://rocky-inlet-71677.herokuapp.com/"
       },
       {
         "title": "Eat-Da- Burger",
@@ -120,19 +126,19 @@
         "title": "Note Taker",
         "category": "mobileapp",
         "image": "Note-taker.png",
-        "url": ""
+        "url": "https://agile-earth-16964.herokuapp.com/"
       },
       {
         "title": "Weather Dashboard",
         "category": "mobileapp",
         "image": "Weather.png",
-        "url": ""
+        "url": "https://fishere20.github.io/weather-dashboard/"
       },
       {
         "title": "Password Generator",
         "category": "mobileapp",
         "image": "Password.png",
-        "url": ""
+        "url": "https://fishere20.github.io/Password_Generator/"
       }
     ]
   },
