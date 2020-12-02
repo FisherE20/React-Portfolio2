@@ -41,10 +41,8 @@
         "school": "University of Arizona, Coding Bootcamp",
         "graduated": "October 2020",
         "description": "Web Development"
-      }
-    ],
+      },
     
-    "education": [
       {
         "school": "California State University, Chico",
         "graduated": "December 2008",
